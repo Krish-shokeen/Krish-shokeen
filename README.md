@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Krish-shokeen<br>👀 I have knowledge of python , c++ and java ,  js , Reactjs , nodejs , mongodb<br>🌱 I’m currently Persuing btech CSE(FSD) from KR Mangalam University<br>💞️ I’m looking to collaborate on projects<br>📫 How to reach me<br>EMAIL ID : krishshokeen55@gmail.com<br>Linkedin Id : https://www.linkedin.com/in/krishshokeen/<br>😄 Pronouns: He/Him
+👋 Hi, I’m @Krish-shokeen<br>👀  I’m interested in coding <br>🌱 I’m currently Persuing btech CSE(FSD) from KR Mangalam University<br>💞️ I’m looking to collaborate on projects<br>📫 How to reach me<br>EMAIL ID : krishshokeen55@gmail.com<br>Linkedin Id : https://www.linkedin.com/in/krishshokeen/<br>😄 Pronouns: He/Him
 
 
 ## 🌐 Socials:
